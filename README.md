@@ -134,13 +134,13 @@ Project focused on creating an API focused on payments, with an emphasis on secu
 
 ### Azure API Management (APIM) as an API Gateway
   - used Azure API Management to expose your backend API securely and professionally.
-  - You learned how to:
+  - learned how to:
     
         Import APIs from App Services
         Apply base paths and version identifiers
         Enable authentication policies and subscription management
 
-  - This gave you first-hand experience in creating a full API lifecycle management system — including consumption control and analytics capabilities.
+  - had first-hand experience in creating a full API lifecycle management system — including consumption control and analytics capabilities.
 
 ### Security and Access Control in the Cloud
   - configured CORS to allow secure cross-origin requests, a crucial part of any frontend-backend integration.
